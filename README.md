@@ -69,8 +69,12 @@ See images directory at [github.com/JofArnold/cv](https://github.com/JofArnold/c
 
 - Various libraries and projects: see [github.com/JofArnold](https://github.com/JofArnold)
 
-## Contact
+## Recruiters
 
-- Recruiters can mail me at `local-part@domain` where my domain is `jofarnold.com` and the `local-part` is the name of your company. It's a catch-all so I will receive all emails.
+- You can mail me at `local-part@domain` where my domain is `jofarnold.com` and the `local-part` is the name of your company. It's a catch-all so I will receive all emails.
+
+- I prioritise emails with concrete opportunities that match my skills versus speculative.
+
+- I will only accept work that is at least partly remote and/or is within 20 mins commuting distance.
 
 - [LinkedIn](https://www.linkedin.com/in/jofarnold/)
