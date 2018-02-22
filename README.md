@@ -68,3 +68,9 @@ See images directory at [github.com/JofArnold/cv](https://github.com/JofArnold/c
 - [From Backbone to React](http://timecounts.github.io/backbone-react)
 
 - Various libraries and projects: see [github.com/JofArnold](https://github.com/JofArnold)
+
+## Contact
+
+- Recruiters can mail me at `local-part@domain` where my domain is `jofarnold.com` and the `local-part` is the name of your company. It's a catch-all so I will receive all emails.
+
+- [LinkedIn](https://www.linkedin.com/in/jofarnold/)
