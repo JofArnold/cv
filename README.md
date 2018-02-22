@@ -1,4 +1,4 @@
-# CV Jof Arnold
+# CV Jof Arnold - Freelance Senior Fullstack Frontend Engineer/Designer
 
 ## Overview
 
