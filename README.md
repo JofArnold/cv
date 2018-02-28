@@ -2,7 +2,7 @@
 
 ## Overview
 
-Senior freelance software engineer since 2007. React.js since 2012. Cofounder of FitFu (YCombinator W11) and Timecounts.org. Expeert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, CSS-in-JS (styled-components), various ORMs, D3 (and various related graphing libraries such as Victory), Docker, React Native, Postgres, Flowtype, Arduino, Bluetooth, NFC, UX/UI, user testing, Backbone, CoffeeScript, jQuery.
+Senior freelance software engineer since 2007. React.js since 2012 (over 200,000LOC in production across multiple clients and millions of users). Cofounder of FitFu (YCombinator W11) and Timecounts.org. Expert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, CSS-in-JS (styled-components), various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, React Native, Flowtype, Arduino, Bluetooth, NFC, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less.
 
 ## Professional Experience
 
