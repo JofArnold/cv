@@ -2,7 +2,7 @@
 
 ## Overview
 
-Senior freelance software engineer since 2007. React.js since 2012. Cofounder of FitFu (YCombinator W11) and Timecounts.org. Expeert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, various ORMs, Docker, React Native, Postgres, Flowtype, Arduino, Bluetooth, NFC, UX/UI, user testing, Backbone, CoffeeScript, jQuery.
+Senior freelance software engineer since 2007. React.js since 2012. Cofounder of FitFu (YCombinator W11) and Timecounts.org. Expeert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, CSS-in-JS (styled-components), various ORMs, D3 (and various related graphing libraries such as Victory), Docker, React Native, Postgres, Flowtype, Arduino, Bluetooth, NFC, UX/UI, user testing, Backbone, CoffeeScript, jQuery.
 
 ## Professional Experience
 
@@ -10,13 +10,13 @@ Senior freelance software engineer since 2007. React.js since 2012. Cofounder of
 
 **Freelance lead frontend engineer, Nov 2017 - now**
 
-Led rebuild of existing jQuery site into React and Redux using TDD (Jest) and Flowtype. Introduced my functional css library to improve design consistency in colors, sizes and vertical rhythm.
+Led rebuild of existing jQuery site into React and Redux using TDD (Jest) and Flowtype, building the majority of the frontend and frontend business logic. Used expertise with maintainable and consistent compononents to ensure styles and vertical easy to follow by subsequent developers.
 
 ### London Tech Startup
 
 **Freelance senior frontend engineer, Sept 2017 - now**
 
-Completely designed app, visual brand, and marketing site for a London-based tech startup. Main developer of frontend using React, GraphQL, Apollo, SCSS.
+Completely designed app, visual brand, and marketing site for a London-based tech startup. Main developer of frontend using React, GraphQL, Apollo, SCSS, styled-components.
 
 ### London Property Startup
 
@@ -28,7 +28,7 @@ Rebuilt an existing React app to allow white-labeling as well as contributed to 
 
 **Senior frontend engineer, Nov 2016 - June 2016**
 
-Designed and build the frontend and marketing pages for a workflow automation app. Key technologies: React, GraphQL, Relay, 
+Designed and build the frontend and marketing pages for a workflow automation app. Key technologies: React, GraphQL, Relay (Classic), Blockly (visual programming), Node. 
 
 ### Timecounts.org
 
