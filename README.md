@@ -10,19 +10,19 @@ Senior freelance software engineer since 2007. React.js since 2012. Cofounder of
 
 **Freelance lead frontend engineer, Nov 2017 - now**
 
-Rebuilding the existing jQuery site into React and Redux using TDD (Jest) and Flowtype. Introduced my functional css library to improve design consistency in colors, sizes and vertical rhythm.
+Led rebuild of existing jQuery site into React and Redux using TDD (Jest) and Flowtype. Introduced my functional css library to improve design consistency in colors, sizes and vertical rhythm.
 
 ### London Tech Startup
 
 **Freelance senior frontend engineer, Sept 2017 - now**
 
-Completely designed app, visual brand, and marketing site for a London-based tech startup. Built the majority of the frontend using React, GraphQL, Apollo, SCSS.
+Completely designed app, visual brand, and marketing site for a London-based tech startup. Main developer of frontend using React, GraphQL, Apollo, SCSS.
 
 ### London Property Startup
 
 **Freelance senior frontend engineer, June 2017 - Aug 2017**
 
-Largely rebuilt an existing React app to allow white-labeling as well as contributed to green field new build app. Key tech: React, Less, Flux, MongoDB, Bootstrap, Material Design.
+Rebuilt an existing React app to allow white-labeling as well as contributed to green field new build app. Key tech: React, Less, Flux, MongoDB, Bootstrap, Material Design.
 
 ### London Tech Startup
 
@@ -34,12 +34,11 @@ Designed and build the frontend and marketing pages for a workflow automation ap
 
 **Cofounder, lead frontend engineer, designer, UX, Dec 2012 - Nov 2017**
 
-Co-designed and built one of the first large-scale React applications. App was initial in Knockout.js. Switched to Backbone.js and quickly realized it wasn't suitable so started building in React! App grew to 100,000 LOC so that was probably a good idea. As a cofounder raised a large seed round, found and hired first engineers. Other key responsibilities included user testing, UI/UX/AI. Spoke at various events and produced a number of presentations including.
+Lead in designing and building one of the first large-scale React applications. App was initial in Knockout.js. Switched to Backbone.js and quickly realized it wasn't suitable so started building in React! App grew to 100,000 LOC so that was probably a good idea. As a cofounder raised a large seed round, found and hired first engineers. Other key responsibilities included user testing, UI/UX/AI. Spoke at various events and produced a number of presentations including.
 
 ### HasFu Inc (FitFu.com, YCombinator W11)
 
 **Cofounder, lead frontend engineer, sales, marketing, community, Jun 2010 - Dec 2012**
-
 
 Codesigned and built an iOS fitness app in the spirit of Wii Fit. Built user base to over 250,000 user and the app was regularly featured by Apple including the WWDC wall in 2011. Raised funding from YCombinator and other investors.
 
