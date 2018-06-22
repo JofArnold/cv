@@ -2,13 +2,38 @@
 
 ## Overview
 
-Senior freelance software engineer since 2006. React.js since 2013 (over 200,000LOC in production across multiple clients). Cofounder of FitFu (YCombinator W11, 250,000 users) and Timecounts.org. Expert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, CSS-in-JS (styled-components), various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, React Native, Flowtype, Arduino, Bluetooth, NFC, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less. Past clients include startups, NHS, Elsevier, Channel 4.
+Senior freelance software engineer since 2006. React.js since 2013 (over 200,000LOC in production across multiple clients). Cofounder of FitFu (YCombinator W11, 250,000 users) and Timecounts.org. Expert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, CSS-in-JS (styled-components), various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, React Native, Flowtype, Arduino, Bluetooth, NFC, C, STM32 ARM Cortext MCUs, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less. Past clients include startups, NHS, Elsevier, Channel 4.
+
+## Core Skills
+
+JavaScript (10 years)
+
+CSS (10 years)
+
+React (5 years)
+
+Apollo, GraphQL (2 years)
+
+Node.js/Express (2 years)
+
+Flow (1 year)
+
+React Native (600 hours)
+
+Embedded Systems C e.g. STM32 ARM Cortex MCUs (200 hours)
+
 
 ## Professional Experience
 
+### US Health Tech Startup
+
+**Freelance senior React Native engineer, May 2018 - now**
+
+Building a unique React Native app (iOS and Android) for a US-based health tech startup. Key tech includes React, React Native, Redux, Jest, styled-component, XCode, ObjectiveC, Node.
+
 ### London Food Ecommerce Startup
 
-**Freelance lead frontend engineer, Nov 2017 - now**
+**Freelance lead frontend engineer, Nov 2017 - May 2018**
 
 Led rebuild of existing jQuery site into React and Redux using TDD (Jest) and Flowtype, building the majority of the frontend and frontend business logic. Used expertise with maintainable and consistent compononents to ensure styles and vertical easy to follow by subsequent developers.
 
