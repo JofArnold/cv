@@ -16,8 +16,6 @@ Apollo, GraphQL (2 years)
 
 Node.js/Express (2 years)
 
-Flow (1 year)
-
 React Native (600 hours)
 
 Embedded Systems C e.g. STM32 ARM Cortex MCUs (200 hours)
