@@ -10,13 +10,13 @@ JavaScript (since 2006)
 
 React (since late 2013)
 
+React Native (since April 2018)
+
 Apollo, GraphQL (2 years)
 
 Node.js/Express (2 years)
 
 CSS (since 2006)
-
-React Native (since April 2018)
 
 Embedded Systems C e.g. STM32 ARM Cortex MCUs (~200 hours)
 
