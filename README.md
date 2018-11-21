@@ -1,4 +1,4 @@
-# CV Jof Arnold - Freelance Senior Full Stack Frontend Engineer/Designer
+# CV Jof Arnold - Senior Engineer, BigHealth.com
 
 ## Overview
 
