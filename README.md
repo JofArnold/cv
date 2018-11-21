@@ -2,30 +2,31 @@
 
 ## Overview
 
-Senior freelance software engineer since 2006. React.js since 2013 (over 200,000LOC in production across multiple clients). Cofounder of FitFu (YCombinator W11, 250,000 users) and Timecounts.org. Expert with React, Redux, GraphQL, Apollo, CSS, SCSS, Jest, Tachyons, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, CSS-in-JS (styled-components), various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, React Native, Flowtype, Arduino, Bluetooth, NFC, C, STM32 ARM Cortext MCUs, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less. Past clients include startups, NHS, Elsevier, Channel 4.
+Senior freelance software engineer since 2006. React.js since 2013 (over 200,000LOC in production across multiple clients). Cofounder of FitFu (YCombinator W11, 250,000 users) and Timecounts.org. Expert with React, React Native, Redux, Redux Saga, GraphQL, Apollo, CSS, SCSS, Jest, Enzyme, Tachyons, styled-components, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, Flowtype, Arduino, Bluetooth, NFC, C, STM32 ARM Cortext MCUs, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less. Past clients include startups, NHS, Elsevier, Channel 4, Big Health.
 
 ## Core Skills
 
-JavaScript (10 years)
+JavaScript (since 2006)
 
-CSS (10 years)
-
-React (5 years)
+React (since late 2013)
 
 Apollo, GraphQL (2 years)
 
 Node.js/Express (2 years)
 
-React Native (600 hours)
+CSS (since 2006)
 
-Embedded Systems C e.g. STM32 ARM Cortex MCUs (200 hours)
+React Native (since April 2018)
 
+Embedded Systems C e.g. STM32 ARM Cortex MCUs (~200 hours)
+
+Java (600 hours)
 
 ## Professional Experience
 
-### US Health Tech Startup
+### Big Health
 
-**Freelance senior React Native engineer, May 2018 - now**
+**Freelancer then senior engineer, May 2018 - now**
 
 Building a unique React Native app (iOS and Android) for a US-based health tech startup. Key tech includes React, React Native, Redux, Jest, styled-component, XCode, ObjectiveC, Node.
 
@@ -37,7 +38,7 @@ Led rebuild of existing jQuery site into React and Redux using TDD (Jest) and Fl
 
 ### London Tech Startup
 
-**Freelance senior frontend engineer, Sept 2017 - now**
+**Freelance senior frontend engineer, Sept 2017 - May 2018**
 
 Completely designed app, visual brand, and marketing site for a London-based tech startup. Main developer of frontend using React, GraphQL, Apollo, SCSS, styled-components.
 
@@ -95,10 +96,4 @@ See images directory at [github.com/JofArnold/cv](https://github.com/JofArnold/c
 
 ## Recruiters
 
-- You can mail me at `local-part@domain` where my domain is `jofarnold.com` and the `local-part` is the name of your company. It's a catch-all so I will receive all emails.
-
-- I prioritise emails with concrete opportunities that match my skills versus speculative.
-
-- I will only accept work that is at least partly remote and/or is within 20 mins commuting distance.
-
-- [LinkedIn](https://www.linkedin.com/in/jofarnold/)
+I am not open to new opportunities, sorry.
