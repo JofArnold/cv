@@ -2,7 +2,7 @@
 
 ## Overview
 
-Senior freelance software engineer since 2006. React.js since 2013 (over 200,000LOC in production across multiple clients). Cofounder of FitFu (YCombinator W11, 250,000 users) and Timecounts.org. Expert with React, React Native, Redux, Redux Saga, GraphQL, Apollo, CSS, SCSS, Jest, Enzyme, Tachyons, styled-components, Selenium, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, Flowtype, Arduino, Bluetooth, NFC, C, STM32 ARM Cortext MCUs, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less. Past clients include startups, NHS, Elsevier, Channel 4, Big Health.
+Senior freelance software engineer since 2006. React.js since 2013. Cofounder of FitFu (YCombinator W11, 250,000 users) and Timecounts.org. Expert with React, React Native, Redux, Redux Saga, TDD, Jest, Enzyme, styled-components, Git. Strong detail-focused UI designer. Also have worked (or regularly work with) with Node.js, Selenium, various ORMs (e.g. Sequelize), D3 (and various related graphing libraries such as Victory, Chart.js), Docker, Flowtype, TypeScript, Arduino, Bluetooth, NFC, C, STM32 ARM Cortext MCUs, UX/UI, user testing, Backbone (3 years experience), CoffeeScript, jQuery, Less. Past clients include startups, NHS, Elsevier, Channel 4, Big Health.
 
 ## Core Skills
 
